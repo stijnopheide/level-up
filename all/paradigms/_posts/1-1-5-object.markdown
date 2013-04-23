@@ -5,4 +5,4 @@ status: done
 time: 2004
 ---
 
-At university in Java and C++, since then wrote programs in Java and PHP and learned a bit of Python and Ruby.
+At university in Java and C++, since then wrote programs in Java, PHP, C# and learned a bit of Python and Ruby.

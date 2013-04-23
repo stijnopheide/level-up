@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Read SICP and complete all the exercises
-status: todo
-time: Not started
+status: wip
+time: 2013
 ---
+
+Currently working through the exercises...
